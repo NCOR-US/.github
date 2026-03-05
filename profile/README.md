@@ -19,5 +19,3 @@ If you are currently depending on this repository or believe there are reasons i
 Thank you to everyone who has engaged with, contributed to, or followed this work.
 
 — Maintainers
-
-# Legacy Readme Follows
